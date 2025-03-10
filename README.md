@@ -13,9 +13,12 @@ The specific target I'm interested is in Burkholderia psuedomallei.
 6. Compare findings with current literature.
 7. Report on findings found.
 
-## Proteins
+## Target Proteins
 - T3SSBsa (facilitates B. pseudomallei escape from the phagosome to replicate in the cytoplasm.)
 - Autotransporter protein BimA (Enables B. pseudomallei to spread from cell to cell)
 -  type 6 secretion system (T6SS-5) (Causes host membrane fusion creaing multinucleated giant cells.)
 -  Type 4 pili (adherence leading to virulence)
 -  Efflux Pumps (AmrAB-OprA, BpeAB-OprB, BpeEF-OprC) All these contribute to B. pseudomalleis antimicrobial resistance.
+
+## Resources
+https://www.cell.com/trends/microbiology/fulltext/S0966-842X(23)00205-6
